@@ -1,0 +1,8 @@
+# Add 'Documentaiton' label to any chnanges within 'docs' folder or any subfolders
+Documentation:
+- changed-files:
+  - any-glob-to-any-file: docs/*
+
+AnyChange:
+- changed-files:
+  - any-glob-to-any-file: '*'
